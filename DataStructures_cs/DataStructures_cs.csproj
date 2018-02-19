@@ -40,7 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Tree.cs" />
+    <Compile Include="Data Structures\Dual.cs" />
+    <Compile Include="Data Structures\Network.cs" />
+    <Compile Include="Data Structures\Tree.cs" />
+    <Compile Include="Data Structures\Path.cs" />
+    <Compile Include="Interfaces\ICollection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
